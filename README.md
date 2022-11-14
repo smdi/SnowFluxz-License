@@ -2,7 +2,7 @@
 
 ### Notice
 
-SnowFluxz: This repository marks the ownership of the name "SnowFluxz", therefore using the name "SnowFluxz" in any of the forms is restricted
+SnowFluxz: This repository marks the ownership of the name "SnowFluxz" and SnowFluxz image, therefore using the name "SnowFluxz" and SnowFluxz image in any of the forms is restricted
 
 ### [License](http://www.apache.org/licenses/LICENSE-2.0)
 
